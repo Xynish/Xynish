@@ -3,13 +3,14 @@
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate in this round
 - 📫 You reach me on:
-	LinkedIn:
-		www.linkedin.com/in/szabolcs-harangi-43a48032b
-		or 
-	Instagram:
-		https://www.instagram.com/sz_hrng/
-		or
-	of corse GitHub 😜
+
+»LinkedIn:
+	• www.linkedin.com/in/szabolcs-harangi-43a48032b 
+»Instagram:
+	• https://www.instagram.com/sz_hrng/
+»Of corse 
+	• GitHub 😜
+
 -🙇🏻‍♂️ Thank you for your time and attention
 
 <!---
